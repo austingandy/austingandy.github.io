@@ -1,4 +1,4 @@
-Responsive HTML5 website template for developers. Here's the info for the theme I used for this website:
+I created this website as an alternative to a standard resume and cover letter. I hope that it gives you some insight about my experience, interests, and personality. I used a free bootstrap theme that I found online. Here is some information about the theme I used:
 
 Theme name:
 =======================================================================
